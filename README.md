@@ -1,0 +1,2 @@
+# -APP-FOR-OBJECT-DETECTION-USING-EDGE-DETECTION-TECHNIQUES-IN-PYTHON
+This app, developed in Python, detects objects in images by identifying their contours using edge detection techniques such as Sobel and Canny. It combines gradient-based methods with contour approximation to effectively detect and count objects in an image. The app also provides visual feedback by highlighting the detected objects.
