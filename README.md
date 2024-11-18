@@ -17,7 +17,7 @@ This app, developed in Python, detects objects in images by identifying their co
 [LinkedIn](https://www.linkedin.com/in/bryanburbanocarvajal)  
 
 ## Ver ejemplo en vivo
-[APP FOR OBJECT DETECTION USING EDGE DETECTION TECHNIQUES IN PYTHON]()
+[APP FOR OBJECT DETECTION USING EDGE DETECTION TECHNIQUES IN PYTHON](https://bryancarvajal24.github.io/APP-FOR-OBJECT-DETECTION-USING-EDGE-DETECTION-TECHNIQUES-IN-PYTHON/)
 
 ## Instalación
 
