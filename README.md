@@ -9,8 +9,8 @@ This app, developed in Python, detects objects in images by identifying their co
 
 ## Archivos
 
-- [Operador Canny (py)](Operador%20Canny.py)
-- [Imagen de prueba (jpg)](i4.jpg)
+- [Descargar archivo de la app (py)](Operador%20Canny.py)
+- [Descargar Imagen de prueba (jpg)](i4.jpg)
 
 ## Autor
 **BRYAN FERNANDO BURBANO CARVAJAL**  
