@@ -9,8 +9,8 @@ This app, developed in Python, detects objects in images by identifying their co
 
 ## Archivos
 
-- [Descargar archivo de la app (py)](Aplicacion_proyectoCalculo.py)
-- [Descargar archivo de imágenes para pruebas (zip)](IMAGENES.zip)
+- [Operador Canny (py)](Operador%20Canny.py)
+- [Imagen de prueba (jpg)](i4.jpg)
 
 ## Autor
 **BRYAN FERNANDO BURBANO CARVAJAL**  
@@ -21,7 +21,8 @@ This app, developed in Python, detects objects in images by identifying their co
 
 ## Instalación
 
-Este proyecto requiere **Python** y bibliotecas como **NumPy**, **Matplotlib**, y **OpenCV**. Las imágenes incluidas en el archivo **IMAGENES.zip** pueden utilizarse para probar la detección y conteo de objetos.
+Este proyecto requiere **Python** y las siguientes bibliotecas: **NumPy**, **Matplotlib** y **OpenCV**. Usa la imagen proporcionada en el archivo **i4.jpg** para probar la funcionalidad de detección de contornos y objetos.
+
 
 ## Contratación
 
